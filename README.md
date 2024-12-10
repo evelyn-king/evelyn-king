@@ -1,0 +1,3 @@
+# Evelyn King 👋
+
+Hello there! My name is Evelyn and my pronouns are she/they. I'm currently an engineer at [IonQ](ionq.com) where I design and model the ion traps that form the backbone of our quantum computers. Previously, I was at Microsoft Quantum where I worked on the design and simulation of novel semiconductor-superconductor hybrid systems towards the goal of making a topological qubit. I love living at the intersection of engineering, physics, and software development and take great pride in being a "jack of all trades." Outside of my work, you can find me tinkering on my homelab, reading, or spending time with my found family.
